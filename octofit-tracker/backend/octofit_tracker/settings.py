@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-ah!)-&ar$k1aix)guzv91fn0i4l(l-k36uj**qaqhdy-a3s4ne
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['stunning-guide-g4qg6vq9vxg4c9vvx-8000.app.github.dev', 'localhost', '127.0.0.1']
 
 
 # Application definition
